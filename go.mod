@@ -1,4 +1,4 @@
-module github.com/alibabacloud-go/pds-sdk
+module github.com/elya-alibaba/pds-sdk
 
 go 1.14
 
